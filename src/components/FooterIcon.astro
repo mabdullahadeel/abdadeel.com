@@ -1,0 +1,14 @@
+---
+export interface Props {
+  src: ImageMetadata;
+  alt: string;
+  href: string;
+}
+
+import { Image } from "astro:assets";
+const { src, alt, href } = Astro.props;
+---
+
+<a href={href} target="_blank" rel="noopener noreferrer">
+  <Image src={src} alt={alt} class="hover:-translate-y-1 transition-all" />
+</a>
