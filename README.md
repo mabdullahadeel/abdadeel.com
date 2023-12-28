@@ -1,1 +1,1 @@
-# [Blog](https://abdadeel.com)
+Blog
