@@ -6,7 +6,7 @@ title: Basic Data Types in GO
 slug: basic-data-types-in-go
 featured: true
 draft: false
-ogImage: ../../assets/blog/basic-data-types-in-go.jpg
+ogImage: /assets/blog/basic-data-types-in-go.jpg
 tags:
   - golang
 description:

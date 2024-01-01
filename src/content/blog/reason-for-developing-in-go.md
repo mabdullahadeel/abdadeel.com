@@ -4,9 +4,9 @@ pubDatetime: 2021-06-30T15:22:00Z
 modDatetime: 2023-12-28T01:10:24Z
 title: Reason for developing in GO
 slug: reason-for-developing-in-go
-featured: true
+featured: false
 draft: false
-ogImage: ../../assets/blog/reason-for-developing-in-go.png
+ogImage: /assets/blog/reason-for-developing-in-go.png
 tags:
   - golang
 description: GO is like a hot kid in the market with all the latest features needs to face modern problems in almost every field. The main reason is that GO is a comparatively new language. Programming languages like C & C++ which was developed in 90s could not quite evolve with the modern complexities of the systems. GO solves all of the same problems with much simpler syntax ( which mean less development time) with almost the same performance which leads to the next point.
