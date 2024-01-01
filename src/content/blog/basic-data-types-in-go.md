@@ -3,7 +3,7 @@ author: Abdullah Adeel
 pubDatetime: 2021-06-30T15:22:00Z
 modDatetime: 2024-01-01T19:20:05Z
 title: Basic Data Types in GO
-slug: reason-for-developing-in-go
+slug: basic-data-types-in-go
 featured: true
 draft: false
 ogImage: ../../assets/blog/basic-data-types-in-go.jpeg
