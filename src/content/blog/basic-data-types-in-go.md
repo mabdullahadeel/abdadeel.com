@@ -15,7 +15,7 @@ description:
 conicalUrl: https://dev.to/abdadeel/all-basic-data-types-in-go-55n8
 ---
 
-![Basic data types in golang](@assets/blog/basic-data-types-in-go.jpg)
+![Basic data types in golang | abdadeel](@assets/blog/basic-data-types-in-go.jpg)
 
 ## Table of contents
 

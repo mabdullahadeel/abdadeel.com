@@ -13,7 +13,7 @@ description: GO is like a hot kid in the market with all the latest features nee
 conicalUrl: https://dev.to/abdadeel/reason-for-developing-in-go-5g0c
 ---
 
-![reason for developing in go cover image](@assets/blog/reason-for-developing-in-go.png)
+![reason for developing in go cover image | abdadeel](@assets/blog/reason-for-developing-in-go.png)
 
 ## Table of contents
 
