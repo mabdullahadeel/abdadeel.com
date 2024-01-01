@@ -63,7 +63,9 @@ In this article, we will focus and discuss the details about these data types �
 - [Complex Numbers](complex)
 
 <div id="string"></div>
+
 # Strings
+
 String type in GO is basically a slice of `bytes` type. But here is the interesting fact about this type. GO in fact does not have any `byte type` but the `byte` type is an alias for the `uint8` type. Pretty confusing right 😵?
 
 ![mind-boggling](https://media.giphy.com/media/7FgDseZw8Zw9Gi0OMk/giphy.gif)
@@ -99,7 +101,9 @@ Bytes: 43 6f 64 65 20 77 69 74 68 20 41 42
 [Run In Playground 🔗](https://play.golang.org/p/LJV2uawhtLn)
 
 <div id="bool"></div>
+
 # Boolean
+
 Boolean is the same as pretty much any other programming language with `true` and `false` as options.
 
 ```go
@@ -119,14 +123,14 @@ In the above example, the variable `years_of_coding` will take `8 bits` of space
 
 Similarly
 
-<div id="intergers">
+<div id="intergers"></div>
+
 - int8 -> `-128 to 127 bits`
 - int16 -> `-32768 to 32767`
 - int32 -> `− 2,147,483,648 to 2,147,483,647`
 - int64 -> `− 9,223,372,036,854,775,808 to 9,223,372,036,854,775,807`
 
 <div id="intergers-u"></div>
-### For unsigned integers
 
 - uint8 -> `0 to 255`
 - uint16 -> `0 to 65,535`
@@ -138,10 +142,13 @@ For unsigned integers, GO documentation clearly says this 👇
 > The int, uint, and uintptr types are usually 32 bits wide on 32-bit systems and 64 bits wide on 64-bit systems. When you need an integer value you should use int unless you have a specific reason to use a sized or unsigned integer type.
 
 <div id="complex"></div>
+
 Complex numbers are supported by GO. They have the following form 👇:
+
 ```go
 re + img¡
 ```
+
 where `re` is the `real` part of the complex number and `img` is the `imaginary` part of the complex number.
 
 ```go
