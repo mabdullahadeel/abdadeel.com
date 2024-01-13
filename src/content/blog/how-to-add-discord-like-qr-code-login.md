@@ -13,10 +13,10 @@ tags:
   - redis
   - nextjs
 description: In this article, I'll show you my approach that I reverse-engineered to achieve discord like passwordless login experience in my application.
-conicalUrl: http://localhost:4321/posts/how-to-add-discord-like-qr-code-login
+conicalUrl: https://dev.to/abdadeel/how-to-add-discord-like-qr-code-login-cn2
 ---
 
-![How to add real-time notifications in Django applications | abdadeel](@assets/blog/how-to-add-discord-like-qr-code-login.webp)
+![Discord like passwordless login experience - reverse engineered | abdadeel](@assets/blog/how-to-add-discord-like-qr-code-login.webp)
 
 ## Table of contents
 
