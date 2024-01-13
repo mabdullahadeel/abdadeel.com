@@ -10,7 +10,7 @@ ogImage: /assets/blog/granular-reactivity-using-react-context.webp
 tags:
   - react
   - typescript
-description: In this article we will discuss how we can use selectors to achieve granular reactivity in react context with a slightly advance but simple approach.
+description: In this article we will discuss how we can use selectors to achieve granular reactivity in react context using my library called textcon with a slightly advance but simple approach.
 conicalUrl: https://dev.to/abdadeel/we-fixed-react-context-using-selectors-for-granular-reactivity-3743
 ---
 
