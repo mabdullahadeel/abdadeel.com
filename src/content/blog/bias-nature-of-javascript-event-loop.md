@@ -10,7 +10,7 @@ ogImage: /assets/blog/bias-nature-of-javascript-event-loop.webp
 tags:
   - javascript
   - typescript
-description: In this article, In this article, I'll try to explain most simply; how the event loop handles different tasks assigned to it.
+description: In this article, I'll try to explain most simply; how the event loop handles different tasks assigned to it.
 conicalUrl: https://dev.to/abdadeel/the-bias-nature-of-javascript-event-loop-4i9e
 ---
 
